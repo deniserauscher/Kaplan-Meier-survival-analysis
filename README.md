@@ -5,7 +5,7 @@ This project provides an example for a Kaplan-Meier survival analysis in R, incl
 * Data preprocessing
 * Kaplan-Meier model fitting
 * Visualization of survival curves with confidence intervals
-* Display of number-at-risk table
+* Display of number-at-risk table <br>
 The code is generalized and anonymized so it can be reused for different time-to-event datasets 
 
 ## Features
